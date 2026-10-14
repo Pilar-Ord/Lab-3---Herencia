@@ -1,0 +1,3 @@
+enum Destino { URBANO, DEPARTAMENTAL }
+enum EstadoEnvio { BODEGA, EN_RUTA, ENTREGADO, DEVUELTO }
+enum EstadoDespacho { PREPARACION, EN_RUTA, CERRADO }
